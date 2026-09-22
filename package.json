@@ -1,0 +1,10 @@
+{
+  "name": "pipsearch-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node installer.js",
+    "start": "node pipsearch/server.js"
+  }
+}
+
